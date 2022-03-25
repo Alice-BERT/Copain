@@ -1,0 +1,24 @@
+.card-img-top{
+    max-width: 10%;
+    height: auto;
+}
+.btn{
+    background-color: aqua;
+    border-color: darkslategrey;
+    color:black;
+}
+.btn:hover{
+    background-color: beige;
+    border-color:sienna;
+    color:black;
+}
+.btn:focus{
+    background-color: aqua;
+    border-color: darkslategrey;
+    color:black;
+    box-shadow: none;
+}
+.titre{
+    text-align: center;
+    font-weight: bold;
+}
